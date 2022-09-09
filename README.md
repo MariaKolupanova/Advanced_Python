@@ -2,4 +2,5 @@
 
 Before perform of new homework assignment merge top commit of main branch in your repository.
 
-conda activate stem
+'conda activate stem'
+
