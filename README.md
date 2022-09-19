@@ -9,3 +9,5 @@ Before perform of new homework assignment merge top commit of main branch in you
 `cd stem_framework/stem`
 
 `pip install -r requirements.txt`
+
+`pip install -e .`
